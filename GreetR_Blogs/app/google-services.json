@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559835872357",
+    "firebase_url": "https://greetr-blogs.firebaseio.com",
+    "project_id": "greetr-blogs",
+    "storage_bucket": "greetr-blogs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559835872357:android:c18aa80e408b2be0ad5a8c",
+        "android_client_info": {
+          "package_name": "com.example.greetr_blogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559835872357-qti6edefmapehliab0lfo3cis0q3ec4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greetr_blogs",
+            "certificate_hash": "d87988e891aabe2470c1b59d03d3ec1a88caad04"
+          }
+        },
+        {
+          "client_id": "559835872357-l763k2ufr871c26tg9puevch4g0ltesq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_NPAvSlZOtD-9ughxNnVXxSc9gctbhe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559835872357-l763k2ufr871c26tg9puevch4g0ltesq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
